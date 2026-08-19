@@ -1,7 +1,7 @@
 [project]
 name = "nanobanana-app-vs-api"
 version = "0.1.0"
-description = "Multi-turn image editing with Nano Banana 2: Gemini app vs Interactions API"
+description = "Multi-turn image editing with Nano Banana 2 and Nano Banana Pro: Gemini app vs Interactions API"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
